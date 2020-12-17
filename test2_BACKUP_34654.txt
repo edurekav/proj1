@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 edited for master branch
+=======
 edited for branch3
+>>>>>>> branch3
